@@ -2,8 +2,8 @@
 
 Creates an SQS queue and a deadletter queue.
 
-Very simple version one.
+Very simple version one.two
 
-## TODO
+## changes
 
-- a lot of static values need to become variables.
+- 0.0.2 - added more variables and tweaked the defaults.
