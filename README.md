@@ -6,4 +6,5 @@ Very simple version one.two
 
 ## changes
 
+- 0.0.3 - added more outputs
 - 0.0.2 - added more variables and tweaked the defaults.
